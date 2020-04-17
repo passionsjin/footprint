@@ -13,7 +13,7 @@
 4. 기고 (자동화편)
 5. 월간보고서 자동화
 6. MCDN tool manage service
-7. 
+7. Azure Devops 활용.
  
 # Tech Stack
 ### language

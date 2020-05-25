@@ -35,4 +35,5 @@
   - database
   - pipeline
 - aws
+  - cli
   - monitoring

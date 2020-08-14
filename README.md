@@ -15,8 +15,8 @@
 ### 빌링통합
 - 주기별 사용량 크롤링 및 인보이스 작성 배치 프로그램 작성
 - IaaS에서 PaaS 마이그레이션
- - Azure AppService
- - Azure Functions
+  - Azure AppService
+  - Azure Functions
 ### tech 블로그
 ### wordpress in cloud service deploy
 ### `마이크로소프트웨어(자동화편)` 기고

@@ -38,8 +38,9 @@
 - IaaS에서 PaaS 마이그레이션 구축
   - Azure AppService 마이그레이션 작업
   - Azure Functions 마이그레이션 작업
-### tech 블로그
-### Cloud에서 Workpress를 배포하는 방법
+### tech 블로그 (Link)[https://tech.cloudmt.co.kr/]
+- github page를 이용해 정적 페이지 구현.
+
 ### `마이크로소프트웨어(자동화편)` 기고
 ### 월간보고서 자동화
 - Python을 통한 Excel, Powerpoint 반복작업 자동화
@@ -48,10 +49,13 @@
   - win32com 라이브러리 사용
 ### CDN 매니징 관련 모듈 개발
 - CDN Multi Purge 구현
-  - 클라우드사의 API를 이용
-### Azure Devops 활용.
-- 자사 홈페이지 CI/CD 파이프라인 구현
-- 고객사 MLOps 구축  
+  - 클라우드사의 API 통합
+### Azure DevOps 프로젝트 구축
+- 고객사 CI/CD 파이프라인 구현
+  - Azure WebApp으로 어플리케이션 배포
+- 고객사 MLOps 구축
+  - Azure Machine Learning SDK를 이용한 모델 관리 및 배포
+  
 ..  
 ..  
 # Tech Stack
@@ -75,10 +79,12 @@
   - functions
   - database
   - devops pipeline
+  - machine learning
 - aws
   - cli
   - monitoring
   - lambda
 ## Certification
 - AZ-103 Azure Administrator
+- AZ-203 Developing Solutions
 - AZ-400 DevOps Engineer Expert

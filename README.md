@@ -26,36 +26,43 @@
   - 거래소 Public/Private API를 통한 정보 수집 및 거래 시스템 구현 (Python)
   - Rule 방식의 수익모델 테스트 설계 및 구현
 ### 코인게임(웹개발) (날짜: 2018.01 ~ 2019.04)
-- 웹개발
-  - 프론트엔드 UI 개발 (vuejs)
-  - 백엔드 API 개발 (spring boot)  
+- 웹 어플리케이션 개발
+  - UI 화면 개발 (vuejs)
+  - API 서버 개발 (spring boot)  
 ..  
 ..
 
-## 2019.5.13 ~ 현재 클라우드메이트 입사
+## 2019.5.13 ~ 2021.04.15 클라우드메이트
 ### 클라우드 빌링통합 시스템 (날짜: 2019.05 ~ 2019.08)
-- 클라우드 사용량 및 인보이스 배치 프로그램 구현 (python)
-- IaaS에서 PaaS 마이그레이션 구축
+- 어플리케이션 개발
+  - Azure 클라우드 사용량 및 인보이스 배치 프로그램 구현 (python)
+- Cloud 마이그레이션 작업
   - Azure AppService 마이그레이션 작업
   - Azure Functions 마이그레이션 작업
+  
 ### tech 블로그 (Link)[https://tech.cloudmt.co.kr/]
-- github page를 이용해 정적 페이지 구현.
+- github page + jekyll 이용한 정적 페이지 구현.
 
 ### `마이크로소프트웨어(자동화편)` 기고
 ### 월간보고서 자동화
-- Python을 통한 Excel, Powerpoint 반복작업 자동화
+- MS Office(Excel, Powerpoint) 반복작업 자동화
   - Datadog 데이터 수집
-  - 클라우드 메트릭 수집
-  - win32com 라이브러리 사용
+  - Cloud 메트릭 수집
+  - win32com 라이브러리를 통한 Office 자동화
 ### CDN 매니징 관련 모듈 개발
-- CDN Multi Purge 구현
-  - 클라우드사의 API 통합
-### Azure DevOps 프로젝트 구축
+- Multi Cloud API 통합 서버 개발
+  - CDN Multi Purge 구현(Python)
+
+### 고객사 Azure DevOps 프로젝트 구축
 - 고객사 CI/CD 파이프라인 구현
   - Azure WebApp으로 어플리케이션 배포
 - 고객사 MLOps 구축
-  - Azure Machine Learning SDK를 이용한 모델 관리 및 배포
-  
+  - Azure Machine Learning SDK를 이용한 **모델** 관리 및 배포
+
+## 2021.04.16 ~ 현재 한화시스템
+### 빅데이터 기반 위협탐지시스템 개발(Z-Defense)
+
+
 ..  
 ..  
 # Tech Stack
